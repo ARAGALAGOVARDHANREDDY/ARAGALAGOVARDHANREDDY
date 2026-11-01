@@ -1,137 +1,21 @@
-<h1 align="center">Hi, I'm Aragala Govardhan Reddy 👋</h1>
-<h3 align="center">Aspiring Data Analyst & ML Engineer | B.Tech CSE (Cyber Security)</h3>
+# 💫 About Me:
+I am an aspiring Data Analyst and Machine Learning professional pursuing a B.Tech in Cyber Security at Sri Venkateswara College of Engineering. I have a strong foundation in Python, SQL, Excel, Power BI, Tableau, and machine learning, with practical experience in data cleaning, exploratory data analysis, data visualization, and predictive modeling.<br><br>Currently, I am working as a Data Analyst Intern at Vijayawada Innovative Technology Development Hub Pvt. Ltd. I have also gained hands-on experience through a Data Science internship at TechnoHacks.<br><br>My key projects include **Customer Behavior Analysis**, where I analyzed 3,900 customer transactions using SQL and Python, developed 32 business queries, and built a Power BI dashboard, and a **Loan Approval Prediction System**, where I achieved 97.84% accuracy using LightGBM after evaluating nine machine learning models.<br><br>I am passionate about transforming data into actionable insights, developing practical analytical solutions, and continuously improving my technical skills. I am interested in opportunities in Data Analytics, Data Science, Machine Learning, and Business Intelligence.
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/aragalagovardhanreddy/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:aragalavishnu30@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/ARAGALAGOVARDHANREDDY">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
 
----
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/aragalagovardhanreddy) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aragalavishnu30@gmail.com) 
 
-## 👨‍💻 About Me
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=ARAGALAGOVARDHANREDDY&theme=github_dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=ARAGALAGOVARDHANREDDY&theme=github_dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=ARAGALAGOVARDHANREDDY&theme=github_dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-Computer Science (Cyber Security) undergraduate with a strong foundation in **Python, SQL, and Machine Learning**. I build and deploy end-to-end analytics and ML applications, covering data preprocessing, EDA, feature engineering, model evaluation, and Streamlit deployment.
-
-- 💼 Currently a **Data Analyst Intern** at Vijayawada Innovative Technology Development Hub
-- 🎓 B.Tech CSE (Cyber Security) at Sri Venkateswara College of Engineering, Tirupati, **CGPA 9.1/10**
-- 🔍 Looking for a **data-focused role** where I can turn raw data into actionable insights
-- 📍 Andhra Pradesh, India
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=ARAGALAGOVARDHANREDDY&theme=dark&no-frame=false&no-bg=true&margin-w=4)
 
 ---
+[![](https://komarev.com/ghpvc/?username=ARAGALAGOVARDHANREDDY&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 🛠️ Tech Stack
-
-**Programming & Databases**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-**Data Analysis & Machine Learning**
-
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![LightGBM](https://img.shields.io/badge/LightGBM-02A676?style=for-the-badge)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-
-**Visualization & BI**
-
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
-
-**Tools**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
-
-**Core CS:** OOP · DBMS · NLP
-
----
-
-## 🚀 Featured Projects
-
-### 🛍️ [Customer Shopping Behavior Analysis](https://github.com/ARAGALAGOVARDHANREDDY/customer-behavior-analysis-SQL-Python-PowerBI)
-`SQL` `Python` `Pandas` `NumPy` `Power BI`
-
-End-to-end analytics project on **3,900 customer transactions**.
-- Cleaned data and engineered features in Python
-- Answered **32 business questions** using SQL
-- Built an interactive **Power BI dashboard** covering revenue by category, spending by age group and gender, discount usage, and shipping/payment trends
-
-### 💳 [Loan Approval Prediction System](https://github.com/ARAGALAGOVARDHANREDDY/loan-prediction-app)
-`Python` `LightGBM` `Scikit-learn` `Streamlit`
-
-End-to-end ML system that predicts loan approval.
-- Compared **9 models**; **LightGBM performed best at 97.84% accuracy**
-- Deployed with an interactive **Streamlit** interface
-
----
-
-## 💼 Experience
-
-| Role | Organization | Duration |
-|------|--------------|----------|
-| **Data Analyst Intern** | Vijayawada Innovative Technology Development Hub Pvt. Ltd. (Remote) | Oct 2026 – Present |
-| **Data Science Intern** | TechnoHacks Solutions Pvt. Ltd. | Apr 2026 |
-
-- Data cleaning, exploration, and reporting using **Python, SQL, and Excel**
-- Visualization with **Power BI, Tableau, Matplotlib, and Seaborn**
-- Built reusable data processing and model training workflows in Jupyter Notebook
-
----
-
-## 🎓 Education
-
-| Qualification | Institution | Year | Score |
-|---------------|-------------|------|-------|
-| B.Tech CSE (Cyber Security) | Sri Venkateswara College of Engineering, Tirupati | Expected 2027 | CGPA 9.1/10 |
-| Class XII | Narayana Junior College, Tirupati | 2021 – 2023 | 97% |
-| Class X | Narayana EM School, Tirupati | 2021 | 99% |
-
----
-
-## 📜 Certifications
-
-- Prompt Engineering for Everyone, Cognitive Class (2026)
-- Python 101 for Data Science, IBM (2025)
-- SQL and Relational Databases 101, Cognitive Class (2025)
-- Master Data Management for Beginners, TCS iON (2026)
-- Data Analytics Job Simulation, Deloitte (2026)
-- GenAI Powered Data Analytics Job Simulation, Forage (2026)
-
----
-
-## 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://img.shields.io/github/followers/ARAGALAGOVARDHANREDDY?label=Followers&style=for-the-badge&logo=github" />
-  <img src="https://komarev.com/ghpvc/?username=ARAGALAGOVARDHANREDDY&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
-</p>
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/ARAGALAGOVARDHANREDDY" alt="GitHub contribution chart" />
-</p>
-
----
-
-## 🤝 Let's Connect
-
-I'm open to **data analyst / data science opportunities, internships, and collaborations**.
-
-📫 [aragalavishnu30@gmail.com](mailto:aragalavishnu30@gmail.com) · 🔗 [LinkedIn](https://www.linkedin.com/in/aragalagovardhanreddy/)
-
-<p align="center">⭐ Thanks for visiting my profile!</p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
