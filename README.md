@@ -115,11 +115,15 @@ End-to-end ML system that predicts loan approval.
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ARAGALAGOVARDHANREDDY&show_icons=true&theme=default" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ARAGALAGOVARDHANREDDY&layout=compact" />
+  <img src="https://img.shields.io/github/followers/ARAGALAGOVARDHANREDDY?label=Followers&style=for-the-badge&logo=github" />
+  <img src="https://komarev.com/ghpvc/?username=ARAGALAGOVARDHANREDDY&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+</p>
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/ARAGALAGOVARDHANREDDY" alt="GitHub contribution chart" />
 </p>
 
 ---
